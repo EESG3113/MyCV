@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+}
+
+.programming-language{
+    display: flex;
+    flex-direction: column;
+    border: 3px solid #fff;
+    border-radius: 10px;
+    width: 6vw;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    margin: 10px;
+}
+
+.programming-language img{
+    width: 3.5vw;
+    object-fit: cover;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.programming-language h3{
+    margin: 10px;
+}

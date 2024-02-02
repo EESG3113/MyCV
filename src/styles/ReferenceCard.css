@@ -1,0 +1,14 @@
+
+.card{
+    margin: 5px;
+    background-color: rgb(237, 225, 166);
+
+    a{
+        color: #0d1273;
+    }
+
+    a:hover{
+        cursor: pointer;
+        color: #151ebd;
+    }
+}

@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+    font-family: sans-serif;
 }
 
 .contact-card{
@@ -33,4 +34,15 @@
 
 h3{
     margin-right: 5px;
+    font-size: 1.5vw;
+}
+
+@media screen and (max-width:750px) {
+    .contact-card{
+        width: 50px;
+    }
+
+    .content-card{
+        display: none;
+    }
 }

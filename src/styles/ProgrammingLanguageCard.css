@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    font-size: 18px;
 }
 
 .programming-language{
@@ -9,7 +8,7 @@
     flex-direction: column;
     border: 3px solid #fff;
     border-radius: 10px;
-    width: 6vw;
+    width: 90px;
     justify-content: center;
     align-items: center;
     color: #fff;
@@ -17,7 +16,7 @@
 }
 
 .programming-language img{
-    width: 3.5vw;
+    width: 40px;
     object-fit: cover;
     margin-top: 10px;
     border-radius: 10px;
@@ -25,4 +24,27 @@
 
 .programming-language h3{
     margin: 10px;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+@media screen and (max-width:900px) {
+    .programming-language{
+        width: 70px;
+
+        h3{
+            font-size: 0.9rem;
+        }
+    }
+}
+
+@media screen and (max-width:750px) {
+    .programming-language img{
+        width: 40px;
+        margin: 10px;
+    }
+
+    .programming-language h3{
+        display: none;
+    }
 }

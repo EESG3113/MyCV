@@ -1,0 +1,25 @@
+.accordion-header{
+  button{
+    padding:5px;
+  }
+
+  img{
+    width: 40px;
+    height: 40px;
+    margin-right: 5px;
+  }
+}
+
+.accordion-body{
+  h4{
+    text-decoration: underline;
+    font-style: oblique;
+  }
+
+  h5{
+    strong{
+      font-size: 20px;
+      color: rgb(80, 119, 247);
+    }
+  }
+}

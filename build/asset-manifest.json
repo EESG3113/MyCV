@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c673ff3.css",
-    "main.js": "/static/js/main.d15af923.js",
-    "static/js/787.20492cc8.chunk.js": "/static/js/787.20492cc8.chunk.js",
-    "static/media/perfil.jpg": "/static/media/perfil.b56b13d43b8e0562c667.jpg",
-    "index.html": "/index.html",
-    "main.8c673ff3.css.map": "/static/css/main.8c673ff3.css.map",
-    "main.d15af923.js.map": "/static/js/main.d15af923.js.map",
-    "787.20492cc8.chunk.js.map": "/static/js/787.20492cc8.chunk.js.map"
+    "main.css": "/MyCV/build/static/css/main.8c673ff3.css",
+    "main.js": "/MyCV/build/static/js/main.d5340528.js",
+    "static/js/787.20492cc8.chunk.js": "/MyCV/build/static/js/787.20492cc8.chunk.js",
+    "static/media/perfil.jpg": "/MyCV/build/static/media/perfil.b56b13d43b8e0562c667.jpg",
+    "index.html": "/MyCV/build/index.html",
+    "main.8c673ff3.css.map": "/MyCV/build/static/css/main.8c673ff3.css.map",
+    "main.d5340528.js.map": "/MyCV/build/static/js/main.d5340528.js.map",
+    "787.20492cc8.chunk.js.map": "/MyCV/build/static/js/787.20492cc8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c673ff3.css",
-    "static/js/main.d15af923.js"
+    "static/js/main.d5340528.js"
   ]
 }
